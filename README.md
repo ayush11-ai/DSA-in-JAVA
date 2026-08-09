@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
