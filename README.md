@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,12 +22,14 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
