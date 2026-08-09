@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
