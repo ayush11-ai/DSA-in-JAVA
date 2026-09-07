@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0877-stone-game) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -35,9 +37,11 @@
 | ------- |
 | [0001-two-sum](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -71,4 +75,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
