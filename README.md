@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -83,4 +84,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
