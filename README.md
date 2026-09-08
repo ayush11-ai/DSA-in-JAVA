@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
