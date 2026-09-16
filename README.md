@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0709-to-lower-case) |
@@ -86,4 +88,20 @@
 | ------- |
 | [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0371-sum-of-two-integers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
