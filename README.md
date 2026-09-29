@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0371-sum-of-two-integers) |
 ## String Matching
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ayush11-ai/DSA-in-JAVA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
