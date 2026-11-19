@@ -5,7 +5,6 @@ class Solution {
             int carry = (a & b) << 1 ; 
 
             a = a^b ;
-
             b = carry;
         }
 
